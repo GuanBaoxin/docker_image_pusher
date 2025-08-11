@@ -1,5 +1,5 @@
 #nginx
 #支持私库
-docker.io/library/golang:1.23.4
+opencoze/web:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
