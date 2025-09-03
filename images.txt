@@ -1,5 +1,6 @@
 #nginx
 #支持私库
-opencoze/web:latest
+cozedev/coze-studio-server:latest
+cozedev/coze-studio-web:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
